@@ -32,7 +32,7 @@ void PolynomialCalcMenu()
 		switch (ch)
 		{
 		case 0:
-			exit(0);
+			return;
 
 		case 1: //якнфемхе
 		{
