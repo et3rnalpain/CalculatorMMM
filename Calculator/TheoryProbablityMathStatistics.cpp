@@ -81,7 +81,7 @@ int MainTPMS()
 		cin >> choise;
 		switch (choise)
 		{
-		case 0: exit(0);
+		case 0: return 0;
 		case 1: 
 			cout << Probablity(result);
 			cout << endl;
