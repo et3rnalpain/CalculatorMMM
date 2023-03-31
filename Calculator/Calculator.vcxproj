@@ -134,6 +134,7 @@
     </ClCompile>
     <ClCompile Include="FuncCalcSrc.cpp" />
     <ClCompile Include="MatrCalc.cpp" />
+    <ClCompile Include="PolynomialCalcSource.cpp" />
     <ClCompile Include="TheoryProbablityMathStatistics.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -143,6 +144,7 @@
     </ClInclude>
     <ClInclude Include="FuncCalc.h" />
     <ClInclude Include="MatrCalc.h" />
+    <ClInclude Include="PolynomialCalc.h" />
     <ClInclude Include="TheoryProbablityMathStatistics.h" />
   </ItemGroup>
   <ItemGroup>

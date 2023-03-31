@@ -1,2 +1,62 @@
-﻿  Drob_Calc.cpp
-  Calculator.vcxproj -> C:\Users\mazur\source\repos\Calculator\x64\Debug\Calculator.exe
+﻿  Calculator.cpp
+  CombinatorCalc.cpp
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\CombinatorCalc.cpp(37,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Drob_Calc.cpp
+  FuncCalcSrc.cpp
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(93,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(93,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(95,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(95,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(96,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(96,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(111,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(111,55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(111,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(113,83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(113,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(113,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(114,83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(114,79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(114,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(226,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(226,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(228,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(228,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(241,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(241,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(241,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(243,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(243,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(243,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(178,17): warning C4101: b2: неиспользованная локальная переменная
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(178,14): warning C4101: a2: неиспользованная локальная переменная
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(177,11): warning C4101: c2: неиспользованная локальная переменная
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(328,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(328,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(339,88): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(339,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(339,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(339,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(353,100): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(353,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(353,88): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(353,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(353,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(364,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(364,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(376,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(376,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(388,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(388,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(463,175): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(463,169): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(464,173): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(464,167): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MatrCalc.cpp
+  PolynomialCalcSource.cpp
+  TheoryProbablityMathStatistics.cpp
+  Создание кода...
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\TheoryProbablityMathStatistics.cpp(107): warning C4715: MainTPMS: значение возвращается не при всех путях выполнения
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(287): warning C4715: Dihotomia: значение возвращается не при всех путях выполнения
+C:\Users\mazur\source\repos\CalculatorMMM\Calculator\FuncCalcSrc.cpp(172): warning C4715: Integral: значение возвращается не при всех путях выполнения
+  Calculator.vcxproj -> C:\Users\mazur\Source\Repos\CalculatorMMM\x64\Debug\Calculator.exe

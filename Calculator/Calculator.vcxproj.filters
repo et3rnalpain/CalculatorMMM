@@ -33,6 +33,9 @@
     <ClCompile Include="FuncCalcSrc.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="PolynomialCalcSource.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CombinatorCalc.h">
@@ -48,6 +51,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Drob_Calc.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="PolynomialCalc.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

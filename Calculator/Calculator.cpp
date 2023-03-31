@@ -4,11 +4,7 @@
 #include "TheoryProbablityMathStatistics.h"
 #include "FuncCalc.h"
 #include "MatrCalc.h"
-
-/*#include "MatrCalc.h"
-#include "Drob_Calc.h"
 #include "PolynomialCalc.h"
-*/
 
 using namespace std;
 int main(int arcg,char** argv)
@@ -33,7 +29,7 @@ int main(int arcg,char** argv)
 		case 1:MatrCalcMenu();break; // Симонин С.А.
 		case 2:minu(); break; // Аверченков Д.
 		case 3:MainCombinator(); break; //Мизропова А.А
-		case 4:break; // Долбенько Н.А.
+		case 4:PolynomialCalcMenu(); break; // Долбенько Н.А.
 		case 5:MenuFunc(); break; //Мазур П.В
 		case 6:MainTPMS(); break; //Мизропова А.А.
 		default:continue;

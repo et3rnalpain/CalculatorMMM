@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\mazur\source\repos\Calculator\x64\Debug\Calculator.exe</FullPath>
+      <FullPath>C:\Users\mazur\Source\Repos\CalculatorMMM\x64\Debug\Calculator.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\mazur\source\repos\Calculator\Calculator\Drob_Calc.cpp</FullPath>
+      <FullPath>C:\Users\mazur\source\repos\CalculatorMMM\Calculator\Drob_Calc.cpp</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\mazur\source\repos\Calculator\Calculator\Drob_Calc.h</FullPath>
+      <FullPath>C:\Users\mazur\source\repos\CalculatorMMM\Calculator\Drob_Calc.h</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
